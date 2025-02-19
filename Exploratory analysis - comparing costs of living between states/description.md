@@ -1,5 +1,5 @@
 ## Overview
-[Kaggle dataset](https://www.kaggle.com/datasets/heidarmirhajisadati/regional-cost-of-living-analysis) provided insights into the cost of living and average monthly income across various countries and regions worldwide from 2000 to 2023. The goal of the project is to explore the living costs within the countries.
+[Kaggle dataset](https://www.kaggle.com/datasets/heidarmirhajisadati/regional-cost-of-living-analysis) provided insights into the cost of living and average monthly income across various countries and regions worldwide from 2000 to 2023. The goal of the project is to explore and compare living costs between the countries.
 
 
 ## Project Goals
