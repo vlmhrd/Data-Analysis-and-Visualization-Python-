@@ -1,5 +1,5 @@
 ## Overview
-The data scraped from [Nextspaceflight.com](https://nextspaceflight.com/launches/past/?search=) into a [Kaggle dataset](https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957) dataset provided insight into space missions happening since 1957.
+The data scraped from [Nextspaceflight.com](https://nextspaceflight.com/launches/past/?search=) into a [Kaggle dataset](https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957)  provided insight into space missions happening since 1957.
 The project is centered around an exploratory analysis on two categorical variables - Country and Status Mission.
 
 ## Project Goals
