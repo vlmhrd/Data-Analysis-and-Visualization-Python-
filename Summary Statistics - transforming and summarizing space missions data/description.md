@@ -3,7 +3,7 @@ The data scraped from [Nextspaceflight.com](https://nextspaceflight.com/launches
 The project is centered around an exploratory analysis on two categorical variables - Country and Status Mission.
 
 ## Project Goals
-- Understand the central tendency, spread and IQR of mission statuses
+- Understand the central tendency, spread and IQR of mission statuses using cat codes
 - Cleaning and transforming data to filter out recent values, compare findings.
 - Building a proportions table for Country variable. Identify trends and visualize the findings
 
